@@ -85,7 +85,7 @@
 
 ---
 
-## 🎯 What I Do *(professional summary — resume)*
+## 🎯 What I Do
 
 - Design, build, and operate **distributed data platforms** and **scalable data pipelines** at **large scale**.  
 - Proficient in **Python, Java, and SQL**; deep expertise in **Apache Spark, Kafka**, and **stream processing**.  
@@ -94,7 +94,7 @@
 
 ---
 
-## 📌 Key projects *(as listed on resume)*
+## 📌 Key projects
 
 - **AI-Powered Analytics Platform** — OpenCode, Open WebUI, silver/gold warehouse data, natural-language querying and reporting.  
 - **Real-Time Pipeline & Stream Processing** — Python, SQL, Airflow, Kafka; **TimescaleDB** with real-time aggregates; **~35% query performance** improvement.  
@@ -110,18 +110,22 @@
 - **2nd place** — AI Hackathon, Geeks of Kolachi (**2024**)  
 - **3rd place** — AI Hackathon, Bazaar Technologies (**2024**)
 
-**Certifications**  
+### 📜 Certifications
+
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)
+![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)
+
 - **Introduction to Data Engineering** — IBM (**2025**)  
 - **Building Generative AI-Powered Applications with Python** — IBM (**2025**)  
 - **Working with Hugging Face** — DataCamp (**2025**)  
 - **Supervised and Unsupervised Learning** — DataCamp (**2025**)  
 - **Improving Deep Neural Networks** — Coursera (**2024**)
 
-**Education**  
+### 🎓 Education
+
+![FAST University](https://img.shields.io/badge/FAST%20University-B.S.%20Computer%20Science-003d82?style=flat)
+
 - **B.S. Computer Science**, FAST University — **2018–2022** · CGPA **3.60 / 4.0**
 
 ---
-
-<p align="left">
-  <i>More project detail →</i> <a href="https://portfolio-eta-henna-22.vercel.app/"><b>portfolio</b></a>
-</p>
